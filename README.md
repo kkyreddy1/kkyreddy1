@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="mailto:kiran.reddy.7y@gmail.com" target="_blank">
+  <a href="mailto:xxxxx@xxx.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   &nbsp;
