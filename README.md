@@ -44,4 +44,9 @@
   <a href="mailto:kiran.reddy.7y@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
+  &nbsp;
+  <a href="https://medium.com/@kirankry" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" alt="Medium" />
+  </a>
 </p>
+
